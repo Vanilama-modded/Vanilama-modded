@@ -1,4 +1,4 @@
-## Bio
+## Links
 
 [Discord Server](https://discord.gg/wz3ZvfA7kQ)
 
