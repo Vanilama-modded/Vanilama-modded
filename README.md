@@ -9,3 +9,5 @@
 [NetherArcade Github](https://github.com/netherarcade)
 
 [NetherArcade Website](http://www.netherarcade.qzz.io/)
+
+[QR Code Generator](https://vanilama-modded.github.io/QR-Code-Generator/)
