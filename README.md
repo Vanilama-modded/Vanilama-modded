@@ -12,6 +12,6 @@
 
 [QR Code Generator](https://vanilama-modded.github.io/QR-Code-Generator/)
 
-[The Quark Smp Create Mod Answer](https://github.com/Vanilama-modded/The-quark-smp-create-mod-answer)
+[The Quark Smp Create Mod Answer](https://vanilama-modded.github.io/The-quark-smp-create-mod-answer/)
 
 [Mini Quizlet](https://vanilama-modded.github.io/Mini-Quizlet/)
