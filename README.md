@@ -11,3 +11,7 @@
 [NetherArcade Website](http://www.netherarcade.qzz.io/)
 
 [QR Code Generator](https://vanilama-modded.github.io/QR-Code-Generator/)
+
+[The Quark Smp Create Mod Answer](https://github.com/Vanilama-modded/The-quark-smp-create-mod-answer)
+
+[Mini Quizlet](https://github.com/Vanilama-modded/Mini-Quizlet)
