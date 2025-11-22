@@ -1,6 +1,6 @@
 ## Links
 
-[Minecraft Tools Wiki](https://vanilama-modded.github.io/Minecraft-Tools-Wiki/)
+[Minecraft Tools Wiki](https://minecraft-tools-wiki.vercel.app/)
 
 [Discord Server](https://discord.gg/wz3ZvfA7kQ)
 
